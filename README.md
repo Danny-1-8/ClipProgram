@@ -10,3 +10,8 @@ Clip model has shown its power ever since it was released in 2021, and its excel
 <p float="left" align="middle">
   <img src="https://github.com/Danny-1-8/ClipProgram/assets/127832063/550b23c4-f7c6-479e-bf50-f936b8ef2da2" width="49%">
 </p>
+
+-   How about a much harder task?
+
+    Hateful Memes, constructed by Meta AI, with a much more complex and richer semantic information
+
