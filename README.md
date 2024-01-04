@@ -19,7 +19,7 @@ Clip model has shown its power ever since it was released in 2021, and its excel
   <img src="https://github.com/Danny-1-8/ClipProgram/assets/127832063/abbdec7f-44fe-45d5-9387-79feff8e75ef" width="30%" height="50%">
 </p>
     
-Seems like the model lose its attention! How should we get Clip aware of the guilt of Hitler? 
+Seems like the model loses its attention! How should we get Clip aware of the guilt of Hitler? 
 We built a finetuning pipeline for it, with both text-vision alignment and text-text alignment.
 
 
